@@ -20,4 +20,4 @@ several Boulders, two water pools, a sonar kit, a discovered Barrel of oil, and 
 
 Created by Vignesh Balasundaram with boilerplate code and instructions provided by Professor Solomon Russell.
 
-CS32, UCLA 2018.
+CS32, UCLA 2017.
