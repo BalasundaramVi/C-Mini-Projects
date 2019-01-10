@@ -18,6 +18,6 @@ light blue (Regular Protesters, here not shown, are in dark blue, and one Hardco
 several Boulders, two water pools, a sonar kit, a discovered Barrel of oil, and a discovered Gold Nugget.
 
 
-Created by Vignesh Balasundaram.
+Created by Vignesh Balasundaram with boilerplate code and instructions provided by Professor Solomon Russell.
 
 CS32, UCLA 2018.
